@@ -23,7 +23,7 @@ Think about the details. What kind of cat? What is it doing?
 --- /task ---
 
 --- task ---
-**Describe the Setting**
+**Describe the background**
 
 Where is the scene happening? Adding a setting makes your prompt more vivid.
 - Example: "A fluffy white cat sitting on a windowsill in a cozy living room."
@@ -76,7 +76,4 @@ Test your prompt with the image generator. If it’s not perfect, tweak the deta
 **Action:** Run the final prompt. Make any necessary changes until the image matches your vision.
 --- /task ---
 
-
-
-### Conclusion
 Great job! You've learned how to turn a simple idea into a detailed image prompt. Keep experimenting and have fun creating your own unique images!
