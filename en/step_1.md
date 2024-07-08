@@ -1,7 +1,12 @@
 ## Wnat you will make
 
-[Ollama](https://ollama.com) is an open-source tool designed to run large language models (LLMs) on your local machine.
+Welcome to the exciting world of image generation! 
 
-By following these steps, you will transform your Raspberry Pi into a powerful AI assistant using Ollama. You will install Ollama along with its WebUI interface, pull a suitable AI model, and interact with it to perform various tasks such as answering questions, generating text, or engaging in conversation. 
+By following these steps, you will learn how to create amazing images using an AI image generator. This guide will help you start with simple ideas and turn them into detailed prompts that produce stunning visuals. You will explore how to add specific details, describe settings, include key elements, and think about colors, styles, and composition. Along the way, you'll test your prompts, make adjustments, and see how each change brings your vision to life. Get ready to dive in and unleash your creativity with advanced generative AI capabilities!
 
-This setup will enable you to explore and leverage advanced generative AI capabilities directly from your Raspberry Pi.
+### You will need:
+Before you begin, you'll need access to an image generator. 
+
+Many online tools are available, but please remember to follow their age limits. 
+
+If you are under the required age or prefer to host your own local image generator, follow our instructions [here](insert placeholder URL).
